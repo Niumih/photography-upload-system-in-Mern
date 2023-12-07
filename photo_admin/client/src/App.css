@@ -1,0 +1,15 @@
+:root{
+  --light-orange : #FFA500;
+  --dark-orange:#FFA500 ;
+  
+
+
+}
+
+*{
+  font-family: 'Jura', sans-serif;
+margin:0;
+padding : 0;
+box-sizing : border-box;
+
+}
